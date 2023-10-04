@@ -140,7 +140,6 @@ indicator_tabs:
   tab_4: ''
 languages:
   - en
-  - es
 languages_public: []
 logos: []
 map_layers: []
@@ -183,6 +182,9 @@ menu:
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
+  - path: /paradise/
+    translation_key: menu.paradise
+    dropdown: []  
   - path: /news
     translation_key: menu.updates
     dropdown: []
