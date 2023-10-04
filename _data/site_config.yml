@@ -26,10 +26,10 @@ country:
   adjective: Kenyan
   
 create_goals:
-  previous_next_links: false
+  previous_next_links: true
   goals: []
 create_indicators:
-  previous_next_links: false
+  previous_next_links: true
 create_pages:
   - filename: ''
     folder: /goals
@@ -208,6 +208,11 @@ news:
 progress_status:
   status_heading: ''
   status_types: []
+progressive_web_app: 
+  enabled: true 
+  name: Sunny App
+  short_name: Sunny App
+  precaching: true
 remote_data_prefix: 'https://kenya-sdg-group-2.github.io/data/'
 reporting_status:
   title: status.reporting_status
