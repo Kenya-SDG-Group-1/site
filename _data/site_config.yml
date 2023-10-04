@@ -22,8 +22,9 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Kenya
+  adjective: Kenyan
+  
 create_goals:
   previous_next_links: false
   goals: []
@@ -76,28 +77,26 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Publications
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      We invite you to envision a world where the beauty of paradise coexists harmoniously with the limitless potential of solar energy. It encourages a sustainable lifestyle that not only preserves the natural paradise but also enhances it through the clean and renewable energy of the sun.
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://kenya-sdg-group-1.github.io/site/paradise/'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: News
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Check this page for news regarding the reporting of our statistics for global indicators and opportunities to contribute to measuring achievement of the sustainable development goals
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://kenya-sdg-group-1.github.io/site/news/'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
 frontpage_introduction_banner:
-  title: frontpage.intro_title
-  description: frontpage.intro_body
+  title: Sunny Nation
+  description: Make hay while the sun shines. It emphasizes the importance of seizing the opportunity presented by solar power to address global challenges such as climate change, poverty, and inequality. The phrase encourages individuals, communities, and nations to embrace solar solutions and sustainable practices to create a brighter and more equitable future for all, aligning with the SDGs mission of creating a better world by 2030.
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
@@ -139,7 +138,6 @@ indicator_tabs:
   tab_4: ''
 languages:
   - en
-  - es
 languages_public: []
 logos: []
 map_layers: []
@@ -182,6 +180,9 @@ menu:
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
+  - path: /paradise/
+    translation_key: Paradise
+    dropdown: []  
   - path: /news
     translation_key: menu.updates
     dropdown: []
