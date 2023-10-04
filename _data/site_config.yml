@@ -183,7 +183,7 @@ menu:
     translation_key: menu.reporting_status
     dropdown: []
   - path: /paradise/
-    translation_key: menu.paradise
+    translation_key: Paradise
     dropdown: []  
   - path: /news
     translation_key: menu.updates
