@@ -98,7 +98,7 @@ frontpage_goals_grid:
   description: frontpage.instructions_shorter
 frontpage_introduction_banner:
   title: Sunny Nation
-  description: Make hay while the sun shines
+  description: Make hay while the sun shines. It emphasizes the importance of seizing the opportunity presented by solar power to address global challenges such as climate change, poverty, and inequality. The phrase encourages individuals, communities, and nations to embrace solar solutions and sustainable practices to create a brighter and more equitable future for all, aligning with the SDGs mission of creating a better world by 2030.
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
