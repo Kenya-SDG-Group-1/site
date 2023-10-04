@@ -77,21 +77,19 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Publications
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      We invite you to envision a world where the beauty of paradise coexists harmoniously with the limitless potential of solar energy. It encourages a sustainable lifestyle that not only preserves the natural paradise but also enhances it through the clean and renewable energy of the sun.
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://kenya-sdg-group-1.github.io/site/paradise/'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: News
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      Check this page for news regarding the reporting of our statistics for global indicators and opportunities to contribute to measuring achievement of the sustainable development goals
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://kenya-sdg-group-1.github.io/site/news/'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
