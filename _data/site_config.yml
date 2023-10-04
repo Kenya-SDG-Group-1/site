@@ -26,10 +26,10 @@ country:
   adjective: Kenyan
   
 create_goals:
-  previous_next_links: true
+  previous_next_links: false
   goals: []
 create_indicators:
-  previous_next_links: true
+  previous_next_links: false
 create_pages:
   - filename: ''
     folder: /goals
@@ -64,9 +64,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/KNBStats'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://www.facebook.com/bureauofstatistics'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
@@ -208,11 +208,6 @@ news:
 progress_status:
   status_heading: ''
   status_types: []
-progressive_web_app: 
-  enabled: true 
-  name: Sunny App
-  short_name: Sunny App
-  precaching: true
 remote_data_prefix: 'https://kenya-sdg-group-2.github.io/data/'
 reporting_status:
   title: status.reporting_status
