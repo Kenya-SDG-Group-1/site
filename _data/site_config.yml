@@ -22,8 +22,9 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Kenya
+  adjective: Kenyan
+  
 create_goals:
   previous_next_links: false
   goals: []
